@@ -47,8 +47,8 @@ TODO: Add long description of the pod here.
    s.dependency   'AnyThinkiOS/AnyThinkGDTAdapter','6.2.98'
 
    s.dependency   'AIHelpSDK', '~> 4.6.6'
-   s.dependency 'UnionOpenPlatformSDK/Core', '2.4.2.1'
-   s.dependency 'UnionOpenPlatformSDK/DataLink', '2.4.2.1'
+   s.dependency 'UnionOpenPlatformSDK/Core', '~> 2.4.2.1'
+   s.dependency 'UnionOpenPlatformSDK/DataLink', '~> 2.4.2.1'
   # s.resource_bundles = {
   #   'inlandSDK' => ['inlandSDK/Assets/*.png']
   # }
